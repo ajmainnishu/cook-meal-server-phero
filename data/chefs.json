@@ -1,0 +1,56 @@
+[
+    {
+        "id": "1",
+        "chef_name": "Gordon Ramsay",
+        "chef_picture": "https://images.pexels.com/photos/8477745/pexels-photo-8477745.jpeg",
+        "work_experience": "5",
+        "made_recipes": "3",
+        "likes": "10",
+        "bio": "Gordon James Ramsay OBE is a British celebrity chef, restaurateur, television presenter, and writer. His restaurant group, Gordon Ramsay Restaurants, was founded in 1997 and has been awarded 17 Michelin stars overall and currently holds seven."
+    },
+    {
+        "id": "2",
+        "chef_name": "Jamie Oliver",
+        "chef_picture": "https://images.pexels.com/photos/5953494/pexels-photo-5953494.jpeg",
+        "work_experience": "2",
+        "made_recipes": "3",
+        "likes": "20",
+        "bio": "Jamie Trevor Oliver MBE OSI is a British restaurateur and cookbook author. He is known for his casual approach to cuisine, which has led him to front numerous television shows and open many restaurants. Oliver reached the public eye when his series The Naked Chef premiered in 1999."
+    },
+    {
+        "id": "3",
+        "chef_name": "Anthony Bourdain",
+        "chef_picture": "https://images.pexels.com/photos/2102934/pexels-photo-2102934.jpeg",
+        "work_experience": "1",
+        "made_recipes": "3",
+        "likes": "5",
+        "bio": "Anthony Michael Bourdain was an American celebrity chef, author, and travel documentarian. He starred in programs focusing on the exploration of international culture, cuisine, and the human condition. "
+    },
+    {
+        "id": "4",
+        "chef_name": "Bobby Flay",
+        "chef_picture": "https://images.pexels.com/photos/1587830/pexels-photo-1587830.jpeg",
+        "work_experience": "1",
+        "made_recipes": "3",
+        "likes": "100",
+        "bio": "Robert William Flay is an American celebrity chef, restaurateur, and reality television personality. Flay is the owner and executive chef of several restaurants and franchises, including Bobby's Burger Palace, Bobby's Burgers, and Amalfi."
+    },
+    {
+        "id": "5",
+        "chef_name": "Emerill Lagasse",
+        "chef_picture": "https://images.pexels.com/photos/6937435/pexels-photo-6937435.jpeg",
+        "work_experience": "10",
+        "made_recipes": "3",
+        "likes": "70",
+        "bio": "Emeril John Lagassé III is an American celebrity chef, restaurateur, television personality, cookbook author, and National Best Recipe award winner for his Turkey and Hot Sausage Chili recipe in 2003."
+    },
+    {
+        "id": "6",
+        "chef_name": "Rachael Ray",
+        "chef_picture": "https://images.pexels.com/photos/10432651/pexels-photo-10432651.jpeg",
+        "work_experience": "1",
+        "made_recipes": "3",
+        "likes": "11",
+        "bio": "Rachael Domenica Ray is an American cook, television personality, businesswoman, and author. She hosted the syndicated daily talk and lifestyle program Rachael Ray."
+    }
+]
